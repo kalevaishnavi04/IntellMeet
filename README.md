@@ -154,6 +154,14 @@ https://github.com/kalevaishnavi04
 - AI Meeting Analytics
 - Multi-language Support
 
+# 🌐 Live Demo
+
+### 🚀 Frontend
+- **Home:** https://neon-syrniki-722b12.netlify.app
+- **Login:** https://neon-syrniki-722b12.netlify.app/login
+
+### ⚙️ Backend API
+- https://intellmeet-production-eb5b.up.railway.app
 
 ## 📄 License
 
