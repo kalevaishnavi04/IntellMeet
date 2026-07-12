@@ -27,6 +27,14 @@ const meetingSchema = new mongoose.Schema(
       enum: ["scheduled", "active", "ended"],
       default: "scheduled",
     },
+    scheduledAt: {
+      type: Date,
+      default: null,
+    },
+    waitingRoomEnabled: {
+      type: Boolean,
+      default: false,
+    },
   },
   {
     timestamps: true,
